@@ -1,6 +1,29 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Video Search App
+
+Simple React app that allows the user to search YouTube for videos
+
+## Technologies Used
+
+- React
+- Axios
+- Youtube API
+- Semantic-UI
+
+# What I learned
+
+I learned more about making API calls with axios, and creating controlled components. I am still learning when to use functional vs class components. While I realize functional components contain _simple_ code and class components contain **more complex code** I am still getting a hold of how exactly to utilize these classes/functions.
+
+##In the project directory, you can run:
+
+### `npm start`
+
+### Future Updates
+
+I plan to incorporate this aspect into my developer social network site.
+
+<!-- ## Available Scripts
 
 In the project directory, you can run:
 
@@ -65,4 +88,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 ### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify -->
