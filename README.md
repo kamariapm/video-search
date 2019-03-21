@@ -13,7 +13,7 @@ Simple React app that allows the user to search YouTube for videos
 
 # What I learned
 
-I learned more about making API calls with axios, and creating controlled components. I am still learning when to use functional vs class components. While I realize functional components contain _simple_ code and class components contain **more complex code** I am still getting a hold of how exactly to utilize these classes/functions.
+I learned more about making API calls with axios, and creating controlled components. I am still learning when to use functional vs class components. While I realize functional components contain _simple_, code and class components contain **more complex code**,I am still getting a hold of how exactly to utilize these classes/functions.
 
 ## In the project directory, you can run:
 
